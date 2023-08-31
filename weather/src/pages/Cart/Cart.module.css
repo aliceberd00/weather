@@ -1,0 +1,12 @@
+.data{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    border-radius: 5%;
+}
+
+.data h1{
+    text-align: center;
+    padding-top: 35%;
+    font-size: 48px;
+}
